@@ -1,9 +1,11 @@
 package org.example;
 
-import org.example.Day2.Task2;
+import org.example.Day3.Task2;
+import org.example.Day3.Task1;
 
 
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
 
 public class App 
 {
@@ -33,5 +35,21 @@ public class App
         //int result = task2.findPossibleGames();
         //System.out.println(result);
 //----------------------------------------------------------------------------------------------------------------------
+
+        //#3 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day3/InputFile.txt");
+        //Integer result = task1.FindTheNumbersInMatrix();
+        //System.out.println(result);
+
+
+        //Taks2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day3/InputFile.txt");
+        //Integer result = task2.FindTheGearRatiosInMatrix();
+        //System.out.println(result);
+        //----------------------------------------------------------------------------------------------------------------------
+
+        //#4 Day Task Call
+        //Task 1
     }
 }
