@@ -1,7 +1,7 @@
 package org.example;
 
-import org.example.Day3.Task2;
-import org.example.Day3.Task1;
+import org.example.Day4.Task2;
+import org.example.Day4.Task1;
 
 
 import java.io.FileNotFoundException;
@@ -43,13 +43,20 @@ public class App
         //System.out.println(result);
 
 
-        //Taks2
+        //Taks 2
         //Task2 task2 = new Task2("src/main/java/org/example/Day3/InputFile.txt");
         //Integer result = task2.FindTheGearRatiosInMatrix();
-        //System.out.println(result);
+        //  System.out.println(result);
         //----------------------------------------------------------------------------------------------------------------------
 
         //#4 Day Task Call
         //Task 1
+        Task1 task1 = new Task1("src/main/java/org/example/Day4/InputFile.txt");
+        System.out.println(task1.findWinningNumbers());
+
+
+        //Task 2
+        Task2 task2 = new Task2("src/main/java/org/example/Day4/InputFile.txt");
+        System.out.println(task2.findNumberOfTickets());
     }
 }
