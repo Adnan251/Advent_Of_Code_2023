@@ -1,7 +1,7 @@
 package org.example;
 
-import org.example.Day4.Task2;
-import org.example.Day4.Task1;
+import org.example.Day5.Task2;
+import org.example.Day5.Task1;
 
 
 import java.io.FileNotFoundException;
@@ -51,12 +51,23 @@ public class App
 
         //#4 Day Task Call
         //Task 1
-        Task1 task1 = new Task1("src/main/java/org/example/Day4/InputFile.txt");
-        System.out.println(task1.findWinningNumbers());
+        //Task1 task1 = new Task1("src/main/java/org/example/Day4/InputFile.txt");
+        //System.out.println(task1.findWinningNumbers());
 
 
         //Task 2
-        Task2 task2 = new Task2("src/main/java/org/example/Day4/InputFile.txt");
-        System.out.println(task2.findNumberOfTickets());
+        //Task2 task2 = new Task2("src/main/java/org/example/Day4/InputFile.txt");
+        //System.out.println(task2.findNumberOfTickets());
+        //----------------------------------------------------------------------------------------------------------------------
+
+        //#5 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day5/InputFile.txt");
+        //System.out.println(task1.getAllTheMaps());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day5/InputFile.txt");
+        //System.out.println();
     }
 }
