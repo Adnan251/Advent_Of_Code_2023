@@ -1,11 +1,8 @@
 package org.example;
 
-import org.example.Day8.Task2;
-import org.example.Day8.Task1;
-
-
+import org.example.Day10.Task2;
+import org.example.Day10.Task1;
 import java.io.FileNotFoundException;
-import java.util.ArrayList;
 
 public class App 
 {
@@ -95,13 +92,13 @@ public class App
 
         //#8 Day Task Call
         //Task 1
-        Task1 task1 = new Task1("src/main/java/org/example/Day8/InputFile.txt");
-        System.out.println(task1.findTheResult());
+        //Task1 task1 = new Task1("src/main/java/org/example/Day8/InputFile.txt");
+        //System.out.println(task1.findTheResult());
 
 
         //Task 2
-        Task2 task2 = new Task2("src/main/java/org/example/Day8/InputFile.txt");
-        System.out.println(task2.findTheResult());
+        //Task2 task2 = new Task2("src/main/java/org/example/Day8/InputFile.txt");
+        //System.out.println(task2.findTheResult());
 //----------------------------------------------------------------------------------------------------------------------
 
         //#9 Day Task Call
@@ -113,5 +110,16 @@ public class App
         //Task 2
         //Task2 task2 = new Task2("src/main/java/org/example/Day9/InputFile.txt");
         //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#10 Day Task Call
+        //Task 1
+        Task1 task1 = new Task1("src/main/java/org/example/Day10/InputFile.txt");
+        System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        Task2 task2 = new Task2("src/main/java/org/example/Day10/InputFile.txt");
+        System.out.println(task2.getTheResult());
     }
 }
