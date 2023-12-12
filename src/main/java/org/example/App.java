@@ -1,7 +1,7 @@
 package org.example;
 
-import org.example.Day8.Task2;
-import org.example.Day11.Task1;
+import org.example.Day12.Task2;
+import org.example.Day12.Task1;
 import java.io.FileNotFoundException;
 
 public class App 
@@ -97,8 +97,8 @@ public class App
 
 
         //Task 2
-        Task2 task2 = new Task2("src/main/java/org/example/Day8/InputFile.txt");
-        System.out.println(task2.findTheResult());
+        //Task2 task2 = new Task2("src/main/java/org/example/Day8/InputFile.txt");
+        //System.out.println(task2.findTheResult());
 //----------------------------------------------------------------------------------------------------------------------
 
         //#9 Day Task Call
@@ -131,6 +131,17 @@ public class App
 
         //Task 2
         //Task2 task2 = new Task2("src/main/java/org/example/Day11/InputFile.txt", 1000000);
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#12 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day12/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day12/InputFile.txt");
         //System.out.println(task2.getTheResult());
     }
 }
