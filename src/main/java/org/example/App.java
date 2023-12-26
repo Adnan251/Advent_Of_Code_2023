@@ -1,12 +1,12 @@
 package org.example;
 
-import org.example.Day12.Task2;
-import org.example.Day12.Task1;
-import java.io.FileNotFoundException;
+import org.example.Day25.Task2;
+import org.example.Day25.Task1;
+import java.io.IOException;
 
 public class App 
 {
-    public static void main( String[] args ) throws FileNotFoundException {
+    public static void main( String[] args ) throws IOException {
 
 
         //#1 Day Tasks Call
@@ -142,6 +142,148 @@ public class App
 
         //Task 2
         //Task2 task2 = new Task2("src/main/java/org/example/Day12/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#13 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day13/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day13/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#14 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day14/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day14/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#15 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day15/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day15/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#16 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day16/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day16/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#17 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day17/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day17/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#18 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day18/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day18/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#19 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day19/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day19/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#20 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day20/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day20/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#21 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day21/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day21/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#22 Day Task Call ******
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day22/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day22/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#23 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day23/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day23/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#24 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day24/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day24/InputFile.txt");
+        //System.out.println(task2.getTheResult());
+//----------------------------------------------------------------------------------------------------------------------
+
+        //#25 Day Task Call
+        //Task 1
+        //Task1 task1 = new Task1("src/main/java/org/example/Day25/InputFile.txt");
+        //System.out.println(task1.getTheResult());
+
+
+        //Task 2
+        //Task2 task2 = new Task2("src/main/java/org/example/Day24/InputFile.txt");
         //System.out.println(task2.getTheResult());
     }
 }
